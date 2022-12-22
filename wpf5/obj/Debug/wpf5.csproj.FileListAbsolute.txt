@@ -1,0 +1,16 @@
+D:\практика трпо\wpf5\bin\Debug\wpf5.exe.config
+D:\практика трпо\wpf5\bin\Debug\wpf5.exe
+D:\практика трпо\wpf5\bin\Debug\wpf5.pdb
+D:\практика трпо\wpf5\obj\Debug\wpf5.csproj.AssemblyReference.cache
+D:\практика трпо\wpf5\obj\Debug\wpf5.csproj.SuggestedBindingRedirects.cache
+D:\практика трпо\wpf5\obj\Debug\MainWindow.g.cs
+D:\практика трпо\wpf5\obj\Debug\App.g.cs
+D:\практика трпо\wpf5\obj\Debug\wpf5_MarkupCompile.cache
+D:\практика трпо\wpf5\obj\Debug\wpf5_MarkupCompile.lref
+D:\практика трпо\wpf5\obj\Debug\MainWindow.baml
+D:\практика трпо\wpf5\obj\Debug\wpf5.g.resources
+D:\практика трпо\wpf5\obj\Debug\wpf5.Properties.Resources.resources
+D:\практика трпо\wpf5\obj\Debug\wpf5.csproj.GenerateResource.cache
+D:\практика трпо\wpf5\obj\Debug\wpf5.csproj.CoreCompileInputs.cache
+D:\практика трпо\wpf5\obj\Debug\wpf5.exe
+D:\практика трпо\wpf5\obj\Debug\wpf5.pdb

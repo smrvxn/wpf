@@ -1,0 +1,69 @@
+﻿<Window x:Class="wpf1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        x:Name="phon" ResizeMode="NoResize">
+    
+    
+    <StackPanel>
+
+        <Menu Background="Gray" BorderBrush="Black" BorderThickness="1" MouseEnter="Menu_MouseEnter" MouseLeave="StatusBar_MouseLeave">
+            <MenuItem Header="Меню">                <MenuItem Header="Изменить фон" MouseEnter="MenuItem_MouseEnter">
+                    <MenuItem Header="фон 1" Click="MenuItem_Click_1"/>
+                    <MenuItem Header="фон 2" Click="MenuItem_Click_2"/>
+                    <MenuItem Header="фон 3" Click="MenuItem_Click_3"/>
+                </MenuItem>
+                <MenuItem Header="О разработчике" Click="MenuItem_Click" MouseEnter="MenuItem_MouseEnter_1"/>
+                <MenuItem Header="Закрыть" Click="MenuItem_Click_4" MouseEnter="MenuItem_MouseEnter_2"/>
+            </MenuItem>
+        </Menu>
+
+        <ToolBar Canvas.Left="20" Canvas.Top="50" Background="LightGray" MouseLeave="StatusBar_MouseLeave">
+            <ToolBar Canvas.Left="20" Canvas.Top="50" Background="LightGray">
+                <Button Click="MenuItem_Click_1" MouseEnter="Button_MouseEnter">
+                    <Image Source="https://cdn-icons-png.flaticon.com/128/1681/1681020.png" Height="50" Width="50"></Image>
+                </Button>
+                <Button Click="MenuItem_Click_2" MouseEnter="Button_MouseEnter_1">
+                    <Image Source="https://cdn-icons-png.flaticon.com/512/1407/1407479.png" Height="50" Width="50"></Image>
+                </Button>
+                <Button Click="MenuItem_Click_3" MouseEnter="Button_MouseEnter_2">
+                    <Image Source="https://cdn-icons-png.flaticon.com/512/9122/9122603.png" Height="50" Width="50"></Image>
+                </Button>
+            </ToolBar>
+
+            <Separator/>
+
+            <ToolBar Background="LightGray" MouseEnter="MenuItem_MouseEnter_1" MouseLeave="StatusBar_MouseLeave">
+                <Button Click="MenuItem_Click">
+                    <Image Source="https://cdn-icons-png.flaticon.com/128/9215/9215631.png" Height="50" Width="50"></Image>
+                </Button>
+            </ToolBar>
+            
+            <Separator/>
+
+            <ToolBar Background="LightGray" MouseEnter="MenuItem_MouseEnter_2" MouseLeave="StatusBar_MouseLeave">
+                <Button Click="MenuItem_Click_4">
+                    <Image Source="https://cdn-icons-png.flaticon.com/128/3513/3513678.png" Height="50" Width="50"></Image>
+                </Button>
+            </ToolBar>            
+        </ToolBar>
+                
+
+        <StatusBar  Width="800" Height="25" Margin="0,300,0,0" MouseEnter="StatusBar_MouseEnter" MouseLeave="StatusBar_MouseLeave">
+            <StatusBarItem>
+                <TextBlock Name="strsost" />
+            </StatusBarItem>
+        </StatusBar>
+
+    </StackPanel>
+    
+
+
+
+
+
+</Window>

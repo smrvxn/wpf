@@ -1,0 +1,16 @@
+D:\практика трпо\wpf3\bin\Debug\wpf3.exe.config
+D:\практика трпо\wpf3\bin\Debug\wpf3.exe
+D:\практика трпо\wpf3\bin\Debug\wpf3.pdb
+D:\практика трпо\wpf3\obj\Debug\wpf3.csproj.AssemblyReference.cache
+D:\практика трпо\wpf3\obj\Debug\wpf3.csproj.SuggestedBindingRedirects.cache
+D:\практика трпо\wpf3\obj\Debug\MainWindow.g.cs
+D:\практика трпо\wpf3\obj\Debug\App.g.cs
+D:\практика трпо\wpf3\obj\Debug\wpf3_MarkupCompile.cache
+D:\практика трпо\wpf3\obj\Debug\wpf3_MarkupCompile.lref
+D:\практика трпо\wpf3\obj\Debug\MainWindow.baml
+D:\практика трпо\wpf3\obj\Debug\wpf3.g.resources
+D:\практика трпо\wpf3\obj\Debug\wpf3.Properties.Resources.resources
+D:\практика трпо\wpf3\obj\Debug\wpf3.csproj.GenerateResource.cache
+D:\практика трпо\wpf3\obj\Debug\wpf3.csproj.CoreCompileInputs.cache
+D:\практика трпо\wpf3\obj\Debug\wpf3.exe
+D:\практика трпо\wpf3\obj\Debug\wpf3.pdb
